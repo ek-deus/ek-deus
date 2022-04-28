@@ -35,12 +35,14 @@
 
 ### :woman_technologist: About Me :
 
-- 👋 Hi, I’m @ek-deus
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Evgenii
+- 👀 I’m interested in DevOps
+- 🌱 I’m currently learning Terraform
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ekdeus@yandex.ru
 
+---
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -78,12 +80,10 @@
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
-  
- 
-  
-  
+
 </div>
 
+---
 ---
 
 ### :fire: My Stats :
@@ -94,10 +94,6 @@
 менять тут >> http://github-readme-streak-stats.herokuapp.com/demo/?user=ek-deus&theme=dark&hide_border=false&date_format=j+M%5B+Y%5D&properties=background
 --->
 ---
-
-### :fire: My Stats :
-
-
 
 ---
 
