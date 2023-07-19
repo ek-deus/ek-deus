@@ -89,7 +89,7 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ek-deus&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ek-deus&theme=dark&locale=ru&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
 
 <!---
 менять тут >> http://github-readme-streak-stats.herokuapp.com/demo/?user=ek-deus&theme=dark&hide_border=false&date_format=j+M%5B+Y%5D&properties=background
