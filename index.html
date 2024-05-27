@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DevOps Engineer Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>DevOps Engineer Portfolio</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section id="about">
+        <h2>About Me</h2>
+        <p>DevOps Engineer with experience in automation, CI/CD, and cloud infrastructure.</p>
+    </section>
+    <section id="projects">
+        <h2>Projects</h2>
+        <article>
+            <h3>Project 1: CI/CD Pipeline</h3>
+            <p>Description of the project.</p>
+            <pre><code>
+            # Example code
+            pipeline {
+                agent any
+                stages {
+                    stage('Build') {
+                        steps {
+                            echo 'Building...'
+                        }
+                    }
+                }
+            }
+            </code></pre>
+        </article>
+        <article>
+            <h3>Project 2: Infrastructure as Code</h3>
+            <p>Description of the project.</p>
+            <pre><code>
+            # Example code
+            resource "aws_instance" "example" {
+                ami           = "ami-0c55b159cbfafe1f0"
+                instance_type = "t2.micro"
+            }
+            </code></pre>
+        </article>
+    </section>
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: <a href="mailto:ekdeus@yandex.ru">ekdeus@yandex.ru</a></p>
+    </section>
+    <footer>
+        <p>&copy; 2024 DevOps Engineer Portfolio</p>
+    </footer>
+</body>
+</html>
