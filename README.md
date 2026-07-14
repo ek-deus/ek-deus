@@ -1,72 +1,58 @@
-
-### Socials
-
-<p align="left"> <a href="https://www.dev.to/ek-deus" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/ek-deus" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ek-deus" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-<a href="http://www.medium.com/ek-deus" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/ek-deus" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
----
-</div>
-
----
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <!-- Хакерская/DevOps эстетика: можно заменить на свой кастомный баннер -->
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" alt="Terminal Animation" width="100%" />
+  
+  <h1>👋 Привет, я Евгений (E.K.)</h1>
+  <h3>DevOps Engineer | Infrastructure as Code Enthusiast</h3>
+  
+  <p>
+    <a href="https://ekdeus.me" target="_blank">
+      <img src="https://img.shields.io/badge/Website-ekdeus.me-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+    </a>
+    <a href="mailto:ekdeus@yandex.ru">
+      <img src="https://img.shields.io/badge/Email-ekdeus@yandex.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
 </div>
+
 ---
 
-### :man_technologist: About Me:
+### 👨‍💻 Обо мне
+- 🔭 Сейчас я работаю над настройкой алертов в **Prometheus** для мониторинга расхождений между статистикой **Moex** и **Kafka**.
+- 🌱 Активно углубляю знания в **Terraform** и оркестрации контейнеров через **containerd**.
+- 💻 Управляю личным парком инфраструктуры: домашний сервер (AMD Ryzen 7 Pro 5750G, 64GB RAM, RX6600) и персональный **Ubuntu VPS** для деплоя ботов и приложений.
+- 🛡️ Предпочитаю автоматизировать всё, что движется, с помощью **Ansible** и строгих CI/CD пайплайнов.
+- 🎨 Ценю техническую эстетику: темные темы, минимализм и hacker-style визуализацию в инструментах.
 
-- 👋 Hi, I’m Evgenii
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning Terraform
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ekdeus@yandex.ru
-
-### :hammer_and_wrench: My Skill Set  and Tools:
-
-<table><tr><td valign="top" width="33%">
-
-### DevOps
-
-<div align="center">  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="50" /></a>  
-<a href="https://www.ansible.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ansible.png" alt="Ansible" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://kafka.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="50" /></a>  
-<a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="50" /></a>  
-<a href="https://www.elastic.co/kibana/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kibana.png" alt="Kibana" height="50" /></a>  
-<a href="https://www.elastic.co/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="50" /></a>  
-<a href="https://www.openstack.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/openstack.png" alt="OpenStack" height="50" /></a>  
- 
-</div>
-
-</td><td valign="top" width="33%">
-
-### Backend  
-<div align="center">  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-### Frontend  
-</td><td valign="top" width="33%">
-</div>
-
-</td></tr></table>  
-</div>
 ---
 
+### 🛠️ Мой стек технологий
 
+| Категория | Инструменты |
+| :--- | :--- |
+| **DevOps & Orchestration** | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![RKE2](https://img.shields.io/badge/RKE2-Black?style=flat-square&logo=linux&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![containerd](https://img.shields.io/badge/containerd-575757?style=flat-square&logo=linux&logoColor=white) |
+| **IaC & Configuration** | ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) |
+| **Monitoring & Logging** | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white) |
+| **Backend & Scripting** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
+| **OS & Infrastructure** | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![SSH](https://img.shields.io/badge/SSH-000000?style=flat-square&logo=ssh&logoColor=white) |
 
+---
 
-<div align="left">
-<img src="https://komarev.com/ghpvc/?username=ek-deus&style=flat-square&color=blue" alt=""/>
+### 📊 Статистика GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ek-deus&show_icons=true&theme=midnight-purple&hide_border=true&title_color=00ff00&icon_color=00ff00&text_color=ffffff" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ek-deus&theme=midnight-purple&hide_border=true&stroke=00ff00" alt="GitHub Streak" />
+</div>
+
+---
+
+### 📌 Закрепленные проекты
+*(Рекомендую закрепить в настройках профиля репозитории, которые демонстрируют ваши навыки)*
+- 🚀 **RKE2 Cluster Deployments** – ваши плейбуки Ansible или скрипты для развертывания кластеров.
+- 📈 **Prometheus Moex/Kafka Alerts** – примеры правил алертинга и дашбордов (с обезличенными данными).
+- 🛡️ **Ubuntu VPS Bot Deployments** – инфраструктура для развертывания ваших приложений.
+
+<div align="center">
+  <sub>Built with 💻 and ☕ by <b>ek-deus</b></sub>
 </div>
