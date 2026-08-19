@@ -5,7 +5,7 @@
   <h3>DevOps Engineer | Infrastructure as Code Enthusiast</h3>
   
   <p>
-    <a href="https://ekdeus.me" target="_blank">
+    <a href="https://ekdeus.github.io" target="_blank">
       <img src="https://img.shields.io/badge/Website-ekdeus.me-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
     </a>
     <a href="mailto:ekdeus@yandex.ru">
