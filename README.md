@@ -6,7 +6,7 @@
   
   <p>
     <a href="https://ekdeus.github.io" target="_blank">
-      <img src="https://img.shields.io/badge/Website-ekdeus.me-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+      <img src="https://img.shields.io/badge/Website-ekdeus.github.io-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
     </a>
     <a href="mailto:ekdeus@yandex.ru">
       <img src="https://img.shields.io/badge/Email-ekdeus@yandex.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
