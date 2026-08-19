@@ -1,5 +1,4 @@
 <div align="center">
-  <!-- Хакерская/DevOps эстетика: можно заменить на свой кастомный баннер -->
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" alt="Terminal Animation" width="100%" />
   
   <h1>👋 Привет, я Евгений (E.K.)</h1>
@@ -14,6 +13,9 @@
     </a>
   </p>
 </div>
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ek-deus)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]((https://t.me/DevOps_DIY)])
 
 ---
 
