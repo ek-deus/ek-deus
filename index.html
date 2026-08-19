@@ -1,63 +1,29 @@
-<!DOCTYPE html>
-<html lang="en">
+<!doctype html>
+<html lang="ru">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DevOps Engineer Portfolio</title>
-    <link rel="stylesheet" href="styles.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Евгений — DevOps Engineer и технический лидер. Kubernetes, IaC, автоматизация и надёжная инфраструктура.">
+  <title>Евгений · DevOps Engineer</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <header>
-        <h1>DevOps Engineer Portfolio</h1>
-        <nav>
-            <ul>
-                <li><a href="#about">About</a></li>
-                <li><a href="#projects">Projects</a></li>
-                <li><a href="#contact">Contact</a></li>
-            </ul>
-        </nav>
-    </header>
-    <section id="about">
-        <h2>About Me</h2>
-        <p>DevOps Engineer with experience in automation, CI/CD, and cloud infrastructure.</p>
-    </section>
-    <section id="projects">
-        <h2>Projects</h2>
-        <article>
-            <h3>Project 1: CI/CD Pipeline</h3>
-            <p>Description of the project.</p>
-            <pre><code>
-            # Example code
-            pipeline {
-                agent any
-                stages {
-                    stage('Build') {
-                        steps {
-                            echo 'Building...'
-                        }
-                    }
-                }
-            }
-            </code></pre>
-        </article>
-        <article>
-            <h3>Project 2: Infrastructure as Code</h3>
-            <p>Description of the project.</p>
-            <pre><code>
-            # Example code
-            resource "aws_instance" "example" {
-                ami           = "ami-0c55b159cbfafe1f0"
-                instance_type = "t2.micro"
-            }
-            </code></pre>
-        </article>
-    </section>
-    <section id="contact">
-        <h2>Contact</h2>
-        <p>Email: <a href="mailto:ekdeus@yandex.ru">ekdeus@yandex.ru</a></p>
-    </section>
-    <footer>
-        <p>&copy; 2024 DevOps Engineer Portfolio</p>
-    </footer>
+  <aside class="sidebar">
+    <a class="brand" href="#top" aria-label="На главную"><span class="brand-mark">E<span>.</span>K</span><span class="brand-label">ek-deus</span></a>
+    <div class="profile"><p class="eyebrow">DevOps engineer</p><h1>Евгений<br>К.</h1><p class="role">Техлид · DevRel<br>Infrastructure as Code</p></div>
+    <nav aria-label="Основная навигация"><a class="is-active" href="#about">Обо мне <span>01</span></a><a href="#stack">Стек <span>02</span></a><a href="#experience">Опыт <span>03</span></a><a href="#channels">Материалы <span>04</span></a></nav>
+    <div class="sidebar-bottom"><a href="mailto:ekdeus@yandex.ru">ekdeus@yandex.ru <span>↗</span></a><div class="socials"><a href="https://github.com/ek-deus" target="_blank" rel="noreferrer">GitHub</a><a href="https://t.me/DevOps_DIY" target="_blank" rel="noreferrer">Telegram</a><a href="https://www.youtube.com/@ek-deus" target="_blank" rel="noreferrer">YouTube</a></div></div>
+  </aside>
+  <main id="top">
+    <section class="hero" id="about"><p class="section-number">01 / О себе</p><p class="availability"><i></i> открыт к интересным задачам</p><h2>Строю инфраструктуру,<br><em>на которую можно</em><br>положиться.</h2><p class="lead">Больше 15 лет в ИТ: от системного администрирования до технического лидерства и внедрения DevOps-практик в командах разработки.</p><div class="hero-meta"><div><strong>7+ лет</strong><span>с Kubernetes</span></div><div><strong>3 cloud</strong><span>AWS · YC · DO</span></div><div><strong>24/7</strong><span>production mindset</span></div></div></section>
+    <section class="about-grid"><p class="section-number">Коротко</p><div><p>Я помогаю командам переходить от устаревшего подхода к разработке к зрелой DevOps-культуре: автоматизировать поставку, сделать инфраструктуру прозрачной и снизить цену инцидентов.</p><p>Работаю с продуктивными Kubernetes-кластерами, развиваю их и помогаю разработчикам с CI/CD, ресурсами и операторами. Не боюсь ночных инцидентов, сетевых политик и настройки HPA — но предпочитаю, чтобы до них не доходило.</p></div></section>
+    <section class="stack" id="stack"><div class="section-heading"><p class="section-number">02 / Инструменты</p><h2>Рабочий стек</h2></div><div class="stack-list"><article><span>01</span><h3>Orchestration</h3><p>Kubernetes · RKE2 · Docker · containerd</p></article><article><span>02</span><h3>IaC &amp; config</h3><p>Terraform · Ansible · CI/CD pipelines</p></article><article><span>03</span><h3>Observability</h3><p>Prometheus · Grafana · Apache Kafka</p></article><article><span>04</span><h3>Systems</h3><p>Linux · Ubuntu · Bash · Python · SSH</p></article></div></section>
+    <section class="experience" id="experience"><div class="section-heading"><p class="section-number">03 / В фокусе</p><h2>Инженерия без<br>магии</h2></div><div class="experience-cards"><article class="feature-card"><p class="card-tag">production</p><h3>Kubernetes<br>как платформа</h3><p>Развиваю кластеры, обновляю компоненты и выстраиваю удобный путь от кода до production.</p><span class="arrow">↗</span></article><article class="feature-card"><p class="card-tag">homelab</p><h3>Своя<br>лаборатория</h3><p>AMD Ryzen 7 Pro, 64 GB RAM, RX6600 и Ubuntu VPS для экспериментов, ботов и приложений.</p><span class="arrow">↗</span></article></div></section>
+    <section class="channels" id="channels"><p class="section-number">04 / Материалы</p><h2>Рассказываю<br>о технологиях.</h2><p>В Telegram и YouTube делюсь практиками DevOps, новостями open source и всем, что помогает инженерам делать системы лучше.</p><div class="channel-links"><a href="https://t.me/DevOps_DIY" target="_blank" rel="noreferrer"><span>Telegram</span><b>DevOps_DIY</b><i>↗</i></a><a href="https://www.youtube.com/@ek-deus" target="_blank" rel="noreferrer"><span>YouTube</span><b>@ek-deus</b><i>↗</i></a></div></section>
+    <footer><span>© 2026 Евгений К.</span><span>Built with ☕ &amp; curiosity</span></footer>
+  </main>
 </body>
 </html>
