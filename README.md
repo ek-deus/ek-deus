@@ -51,12 +51,20 @@ k8s на работе, k8s и k3s дома homelab: Последние 2 год�
 
 ## 📊 Статистика проекта
 
-| Посещения страницы | Активность на GitHub |
-|--------------------|-----------------------|
-| ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fek-deus&label=Visitors&countColor=%23263759) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ek-deus&show_icons=true&theme=github_dark) |
-
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?color=2d2d2d&label=👁️%20Visitors%20(GitHub)&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fek-deus.github.io%2Fvisitors&style=for-the-badge&labelColor=1a1a1a" alt="GitHub Visitors"/>
+  <img src="https://img.shields.io/badge/dynamic/json?color=2d2d2d&label=🌐%20Visitors%20(Site)&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fek-deus-site%2Fvisitors&style=for-the-badge&labelColor=1a1a1a" alt="Site Visitors"/>
+  <img src="https://img.shields.io/github/stars/ek-deus?style=for-the-badge&color=2d2d2d&label=⭐%20Stars&labelColor=1a1a1a" alt="Stars"/>
+  <img src="https://img.shields.io/github/followers/ek-deus?style=for-the-badge&color=2d2d2d&label=👤%20Followers&labelColor=1a1a1a" alt="Followers"/>
+</p>
 ---
 
 <div align="center">
   <sub>Built with 💻 and ☕ by <b>ek-deus</b></sub>
 </div>
+
+---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ek-deus&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ek-deus&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+---
